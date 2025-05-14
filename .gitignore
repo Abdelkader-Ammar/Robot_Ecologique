@@ -1,0 +1,15 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build directories
+bin/
+out/
+
+# VS Code settings folder
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
